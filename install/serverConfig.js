@@ -22,7 +22,7 @@
 
 const serverConfig = {
   env: 'development',
-  mongodbBinPath: 'C:/mongodb/mongodb/bin/',
+  mongodbBinPath: 'D:/MongoDB/bin',
   dbIP: '127.0.0.1',
   dbPort: '27017',
   dbName: 'doracms2',
